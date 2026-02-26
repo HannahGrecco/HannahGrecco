@@ -5,7 +5,7 @@
 Desenvolvedora Web com foco em Backend e estudante de Ciência da Computação.
 Sou movida pela curiosidade de entender como os sistemas funcionam por dentro e por construir aplicações organizadas, escaláveis e com propósito.
 
-Atuo principalmente com PHP e Laravel e estou em constante evolução técnica. Meu objetivo é crescer como desenvolvedora backend e, no futuro, trabalhar com tecnologia aplicada a idiomas e cultura, unindo minhas duas grandes paixões.
+Atuo principalmente com PHP e Laravel e estou em constante evolução técnica. Meu objetivo é crescer como desenvolvedora fullstack e, no futuro, trabalhar com tecnologia aplicada a idiomas e cultura, unindo minhas duas grandes paixões.
 
 ---
 <p align="center">
