@@ -8,19 +8,11 @@ Sou movida pela curiosidade de entender como os sistemas funcionam por dentro e 
 Atuo principalmente com PHP e Laravel e estou em constante evolução técnica. Meu objetivo é crescer como desenvolvedora backend e, no futuro, trabalhar com tecnologia aplicada a idiomas e cultura, unindo minhas duas grandes paixões.
 
 ---
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HannahGrecco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannahGrecco&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800" alt="Linguagens mais usadas" />
-      </td>
-    </tr>
-  </table>
-</div>
-<br />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HannahGrecco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannahGrecco&layout=compact&langs_count=7&theme=dracula" />
+</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" /> 
