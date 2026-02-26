@@ -1,16 +1,16 @@
 # Olá! Eu sou a Hannah Grecco 👋
 
-### Desenvolvedora Full Stack Júnior | [cite_start]Estudante de Ciência da Computação [cite: 4, 31]
+### Desenvolvedora Full Stack Júnior | Estudante de Ciência da Computação
 
-Sou uma entusiasta da tecnologia focada em criar soluções funcionais e organizadas. [cite_start]Atualmente, trabalho como Desenvolvedora Full Stack na Supermédica, explorando o ecossistema PHP e aprimorando minhas habilidades em arquitetura de sistemas[cite: 4, 15, 16].
+Sou uma entusiasta da tecnologia focada em criar soluções funcionais e organizadas. Atualmente, trabalho como Desenvolvedora Full Stack na Supermédica, explorando o ecossistema PHP e aprimorando minhas habilidades em arquitetura de sistemas.
 
 ---
 
 ## 🚀 Sobre Mim
-* [cite_start]🎓 Cursando **Ciência da Computação** na UNICEUG (2025-2028).
-* [cite_start]💻 Atualmente trabalhando com **PHP (Laravel)**, **Blade** e **MySQL**[cite: 15, 16].
-* [cite_start]🧪 Experiência com metodologias ágeis (**Scrum/Kanban**) e ferramentas de IA no desenvolvimento[cite: 17, 39, 40].
-* [cite_start]🌐 Idiomas: Inglês (Intermediário) e Mandarim (Básico)[cite: 13].
+* 🎓 Cursando **Ciência da Computação** na UNICEUG (2025-2028).
+* 💻 Atualmente trabalhando com **PHP (Laravel)**, **Blade** e **MySQL**.
+* 🧪 Experiência com metodologias ágeis (**Scrum/Kanban**) e ferramentas de IA no desenvolvimento.
+* 🌐 Idiomas: Inglês (Intermediário) e Mandarim (Básico).
 
 ---
 
@@ -18,10 +18,10 @@ Sou uma entusiasta da tecnologia focada em criar soluções funcionais e organiz
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | [cite_start]PHP, JavaScript, Python [cite: 8, 38] |
-| **Frameworks** | [cite_start]Laravel, Node.js, Vue.js [cite: 9] |
-| **Banco de Dados**| [cite_start]MySQL, SQLite, MongoDB [cite: 10] |
-| **DevOps/Outros** | [cite_start]Git, GitHub, Google Cloud Platform (GCP) [cite: 11, 22] |
+| **Linguagens** | PHP, JavaScript, Python |
+| **Frameworks** | Laravel, Node.js, Vue.js |
+| **Banco de Dados**| MySQL, SQLite, MongoDB |
+| **DevOps/Outros** | Git, GitHub, Google Cloud Platform (GCP) |
 
 ---
 
