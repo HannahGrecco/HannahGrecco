@@ -2,7 +2,10 @@
 
 ### Desenvolvedora Full Stack Júnior | Estudante de Ciência da Computação
 
-Sou uma entusiasta da tecnologia focada em criar soluções funcionais e organizadas. [cite_start]Atualmente, trabalho como Desenvolvedora Full Stack na Supermédica, explorando o ecossistema PHP e aprimorando minhas habilidades em arquitetura de sistemas[cite: 4, 15].
+Desenvolvedora Web com foco em Backend e estudante de Ciência da Computação.
+Sou movida pela curiosidade de entender como os sistemas funcionam por dentro e por construir aplicações organizadas, escaláveis e com propósito.
+
+Atuo principalmente com PHP e Laravel e estou em constante evolução técnica. Meu objetivo é crescer como desenvolvedora backend e, no futuro, trabalhar com tecnologia aplicada a idiomas e cultura, unindo minhas duas grandes paixões.
 
 ---
 
@@ -14,39 +17,19 @@ Sou uma entusiasta da tecnologia focada em criar soluções funcionais e organiz
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-## 🐍 Snake Game (My Contributions)
+## Meus Commits
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HannahGrecco/HannahGrecco/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </p>
 
 ---
-
-## 🚀 Sobre Mim
-* [cite_start]🎓 Cursando **Ciência da Computação** na UNICEUG (2025-2028)[cite: 31, 32].
-* [cite_start]💻 Atualmente trabalhando com **PHP (Laravel)**, **Blade** e **MySQL** na Supermédica[cite: 15, 16].
-* [cite_start]🧪 Experiência com metodologias ágeis (**Scrum e Kanban**)[cite: 39, 40].
-* [cite_start]🌐 Idiomas: Inglês (Intermediário) e Mandarim (Básico)[cite: 13].
-
----
-
-## 📫 Vamos nos conectar?
-<p align="left">
-  <a href="https://www.linkedin.com/in/hannah-qrecco-87195727a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:hannah.webdev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
