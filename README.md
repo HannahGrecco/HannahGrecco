@@ -1,11 +1,10 @@
 # Olá! Eu sou a Hannah Grecco 👋
 
-### Desenvolvedora Full Stack Júnior | Estudante de Ciência da Computação
+### Junior Full Stack Developer | Computer Science undergraduate
 
-Desenvolvedora Web com foco em Backend e estudante de Ciência da Computação.
-Sou movida pela curiosidade de entender como os sistemas funcionam por dentro e por construir aplicações organizadas, escaláveis e com propósito.
+Web developer focused on backend, driven by curiosity about how systems work under the hood. I enjoy building organized, scalable applications with purpose.
 
-Atuo principalmente com PHP e Laravel e estou em constante evolução técnica. Meu objetivo é crescer como desenvolvedora fullstack e, no futuro, trabalhar com tecnologia aplicada a idiomas e cultura, unindo minhas duas grandes paixões.
+I work mainly with PHP and Laravel and I'm always leveling up my skills. My goal is to grow as a full stack developer and, someday, work with technology applied to languages and culture, combining my two biggest passions.
 
 ---
 <p align="center">
