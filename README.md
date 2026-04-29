@@ -1,4 +1,4 @@
-# Olá! Eu sou a Hannah Grecco 👋
+# Hi, I'm Hannah Grecco 👋
 
 ### Junior Full Stack Developer | Computer Science undergraduate
 
@@ -26,7 +26,7 @@ I work mainly with PHP and Laravel and I'm always leveling up my skills. My goal
 </p>
 ---
 
-## Meus Commits
+## My Commits
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HannahGrecco/HannahGrecco/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
