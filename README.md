@@ -1,6 +1,6 @@
 # Hi, I'm Hannah Grecco 👋
 
-### Junior Full Stack Developer | Computer Science undergraduate
+### Full Stack Developer | Computer Science undergraduate
 
 Web developer focused on backend, driven by curiosity about how systems work under the hood. I enjoy building organized, scalable applications with purpose.
 
