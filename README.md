@@ -6,11 +6,6 @@ Fullstack Developer with a backend focus, building real-world projects with Lara
 I'm currently pursuing a Computer Science degree and looking for internship or remote junior opportunities, remote work fits both my schedule and how I work best.
 I believe the best projects are the ones that solve real problems, and I bring extra curiosity when the domain involves culture, music, games, or global topics. That combination of technical and human interest is what drives how I build and learn.
 Open to freelance work too, even though I'm just getting started on that front.
----
-Desenvolvedora Fullstack com foco em backend, construindo projetos reais com Laravel & PHP enquanto expando para Machine Learning e Dados.
-Estou cursando Ciência da Computação e buscando estágio ou oportunidades júnior remotas. o trabalho remoto se encaixa tanto na minha rotina quanto na forma como trabalho melhor.
-Acredito que os melhores projetos são os que resolvem problemas reais, e trago curiosidade extra quando o domínio envolve cultura, música, jogos ou temas globais. Essa combinação de interesse técnico e humano é o que guia como eu construo e aprendo.
-Aberta a trabalhos freelance também, mesmo ainda começando por esse caminho.
 
 ---
 <p align="center">
