@@ -1,5 +1,9 @@
 # Hi, I'm Hannah Grecco 👋
 
+<p align="center">
+  <img src="./banner.jpg" alt="Header Banner" width="100%">
+</p>
+
 ### Full Stack Developer | Computer Science undergraduate
 
 Fullstack Developer with a backend focus, building real-world projects with Laravel & PHP while expanding into Machine Learning and Data.
