@@ -1,15 +1,15 @@
-# Hi, I'm Hannah Grecco 👋
 
 <p align="center">
   <img src="./banner.jpg" alt="Header Banner" width="100%">
 </p>
 
-### Full Stack Developer | Computer Science undergraduate
+## 🐱 About Me
 
-Fullstack Developer with a backend focus, building real-world projects with Laravel & PHP while expanding into Machine Learning and Data.
-I'm currently pursuing a Computer Science degree and looking for internship or remote junior opportunities, remote work fits both my schedule and how I work best.
-I believe the best projects are the ones that solve real problems, and I bring extra curiosity when the domain involves culture, music, games, or global topics. That combination of technical and human interest is what drives how I build and learn.
-Open to freelance work too, even though I'm just getting started on that front.
+- 💻 **Full Stack Developer (PHP & Laravel)** with a solid background in web development, currently transitioning into **Machine Learning & Computer Vision**.
+- 🎓 **Computer Science** undergraduate student.
+- 💼 **IT Intern** at the Directorate of Information Technology (DTI) - IFG Rectory.
+- 🎯 Actively looking for opportunities (Internships / Junior) in **AI, Machine Learning, and Data Science**.
+- 🎧 **Interests:** Passionate about music, gaming, global culture & languages.
 
 ---
 <p align="center">
