@@ -11,12 +11,7 @@
 - 🎯 Actively looking for opportunities (Internships / Junior) in **AI, Machine Learning, and Data Science**.
 - 🎧 **Interests:** Passionate about music, gaming, global culture & languages.
 
----
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HannahGrecco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HannahGrecco&layout=compact&langs_count=7&theme=dracula" />
-</p>
+<h3 align="center">Languages & Frameworks</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="Laravel" />
@@ -29,6 +24,14 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter" />
 </p>
+
+---
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HannahGrecco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HannahGrecco&layout=compact&langs_count=7&theme=dracula" />
+</p>
+
 ---
 
 ## My Commits
