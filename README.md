@@ -4,10 +4,9 @@
 </p>
 
 ## 🐱 About Me
-
-- 💻 **Full Stack Developer (PHP & Laravel)** with a solid background in web development, currently transitioning into **Machine Learning & Computer Vision**.
+- **Transitioning into Computer Vision, driven by its potential to build solutions that create real, positive impact in people's lives.**
 - 🎓 **Computer Science** undergraduate student.
-- 💼 **IT Intern** at the Directorate of Information Technology (DTI) - IFG Rectory.
+- 💼 **IT Intern at DTI** – IFG Rectory, working across Django-based systems, technical support, and requirements analysis.
 - 🎯 Actively looking for opportunities (Internships / Junior) in **AI, Machine Learning, and Data Science**.
 - 🎧 **Interests:** Passionate about music, gaming, global culture & languages.
 
